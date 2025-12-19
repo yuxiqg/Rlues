@@ -1,0 +1,8 @@
+//游骑兵
+HOST, emby.heisi.org, Emby
+
+//SNTP-lite
+HOST, lite.cn2gias.uk, Emby
+
+//Terminus
+HOST-KEYWORD, emby.wtf, Emby

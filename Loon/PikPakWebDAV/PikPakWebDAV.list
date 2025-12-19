@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD, dav.mypikpak
+AND, ((DOMAIN-KEYWORD, dl-), (DOMAIN-KEYWORD, mypikpak))
