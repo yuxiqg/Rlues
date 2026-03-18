@@ -1,5 +1,9 @@
+//探花TV
+DOMAIN, tanhuatv.site, Emby
+
 //游骑兵
 DOMAIN, emby.heisi.org, Emby
+DOMAIN, emby666.alien666.de5.net, Emby
 
 //SNTP-lite
 DOMAIN, lite.cn2gias.uk, Emby
